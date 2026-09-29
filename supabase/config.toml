@@ -1,0 +1,4 @@
+[functions]
+
+[functions.reservations]
+verify_jwt = false
